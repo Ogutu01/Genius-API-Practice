@@ -1,1 +1,1 @@
-# Musixmatch-API-Practice
+# Genius-API-Practice
